@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "179958304102",
+    "project_id": "carassistant-38d10",
+    "storage_bucket": "carassistant-38d10.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:179958304102:android:06fc90b4d9df0794c18ca7",
+        "android_client_info": {
+          "package_name": "com.example.carassistant"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "179958304102-j4uq4uls4mp2n6a5dv0ak05gqdkt3o1t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCd1xf4QviZycqgHh-Qhr2SQRtMk8Y3n9w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "179958304102-j4uq4uls4mp2n6a5dv0ak05gqdkt3o1t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

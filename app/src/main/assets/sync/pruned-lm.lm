@@ -1,0 +1,178 @@
+
+\data\
+ngram 1=37
+ngram 2=99
+ngram 3=29
+
+\1-grams:
+-0.5944539	</s>
+-99	<s>	-0.6919724
+-1.752816	apel	-0.8340859
+-1.497544	avoy	-0.4306659
+-2.451787	bonzur	-0.8357465
+-1.849726	confians	-0.571466
+-1.673635	curepipe	0.1186103
+-1.752816	dan	-0.2794441
+-1.752816	davish	-1.417446
+-1.451786	direksyon	-0.9927266
+-1.752816	ena	-0.820566
+-1.410394	enn	-1.044036
+-1.752816	ete	-0.820566
+-1.752816	girish	-1.417446
+-1.129567	ki	-0.581396
+-1.451786	kouma	-0.2892776
+-2.150756	la	-0.474041
+-1.849726	laglwar	-0.571466
+-2.150756	lakaz	-0.3496172
+-1.451786	letan	-0.9927266
+-2.451787	manyer	-0.7417277
+-1.305658	messaz	-0.2061174
+-1.606688	met	-1.065317
+-2.150756	mizik	-0.3496172
+-1.673635	moka	0.1186103
+-1.752816	nabeel	-1.417446
+-2.451787	non	-0.7417277
+-1.752816	paul	-1.417446
+-1.673635	portlouis	0.1186103
+-1.673635	reduit	0.1186103
+-1.752816	restoran	-0.3051876
+-1.673635	rosehill	0.1186103
+-1.548696	sante	-0.8099522
+-1.752816	telefonn	-0.8340859
+-1.752816	trafik	-0.3051876
+-2.451787	wi	-0.7417277
+-1.548696	zwe	-0.8816361
+
+\2-grams:
+-1.447811	<s> apel
+-0.90309	<s> avoy	-0.2063152
+-1.920384	<s> bonzur
+-1.447811	<s> dan	-0.465222
+-0.6812412	<s> ki	-0.650158
+-0.8573325	<s> kouma	-0.7284634
+-1.447811	<s> messaz
+-1.012234	<s> met
+-1.920384	<s> non
+-1.447811	<s> telefonn
+-1.920384	<s> wi
+-0.9542425	<s> zwe
+-0.7620217	apel davish
+-0.7620217	apel girish
+-0.7620217	apel lakaz
+-0.7620217	apel nabeel
+-0.7620217	apel paul
+-1.017294	avoy davish
+-0.5447206	avoy enn	-0.1760911
+-1.017294	avoy girish
+-1.017294	avoy nabeel
+-1.017294	avoy paul
+-0.06305175	bonzur ki
+-0.09691001	confians </s>
+-1.693141	curepipe </s>
+-0.2894481	dan ki	-0.4973246
+-0.09691001	davish </s>
+-0.7620217	davish enn
+-0.7403627	direksyon curepipe	-0.4682275
+-0.7403627	direksyon moka	-0.4682275
+-0.7403627	direksyon portlouis	-0.4682275
+-0.7403627	direksyon reduit	-0.4682275
+-0.7403627	direksyon rosehill	-0.4682275
+-0.7620217	ena curepipe
+-0.7620217	ena moka
+-0.7620217	ena portlouis
+-0.7620217	ena reduit
+-0.7620217	ena rosehill
+-0.1249387	enn messaz	-0.3483932
+-0.7781513	enn sante	-0.2218487
+-0.7620217	ete curepipe
+-0.7620217	ete moka
+-0.7620217	ete portlouis
+-0.7620217	ete reduit
+-0.7620217	ete rosehill
+-0.09691001	girish </s>
+-0.7620217	girish enn
+-0.3222193	ki direksyon
+-0.9126974	ki letan
+-1.385271	ki manyer
+-0.9126974	ki restoran	-0.465222
+-0.5904781	kouma letan
+-0.5904781	kouma trafik	-0.465222
+-0.1760913	la mizik
+-0.09691001	laglwar </s>
+-0.1760913	lakaz </s>
+-0.7403627	letan curepipe	-0.4682275
+-0.7403627	letan moka	-0.4682275
+-0.7403627	letan portlouis	-0.4682275
+-0.7403627	letan reduit	-0.4682275
+-0.7403627	letan rosehill	-0.4682275
+-0.06305175	manyer </s>
+-2.061117	messaz </s>
+-0.845098	messaz davish	0.2218488
+-0.845098	messaz girish	0.2218488
+-0.845098	messaz nabeel	0.2218488
+-0.845098	messaz paul	0.2218488
+-0.9081498	met confians
+-0.9081498	met enn
+-0.9081498	met la
+-0.9081498	met laglwar
+-0.3679768	met sante
+-0.1760913	mizik </s>
+-1.693141	moka </s>
+-0.09691001	nabeel </s>
+-0.7620217	nabeel enn
+-0.06305175	non </s>
+-0.09691001	paul </s>
+-0.7620217	paul enn
+-1.693141	portlouis </s>
+-1.693141	reduit </s>
+-0.2894481	restoran ena
+-1.693141	rosehill </s>
+-0.3521825	sante </s>
+-0.6532125	sante confians	0.2218488
+-0.6532125	sante laglwar	0.2218488
+-0.7620217	telefonn davish
+-0.7620217	telefonn girish
+-0.7620217	telefonn lakaz
+-0.7620217	telefonn nabeel
+-0.7620217	telefonn paul
+-0.2894481	trafik ete
+-0.06305175	wi </s>
+-0.9661418	zwe </s>
+-0.9661418	zwe confians
+-0.9661418	zwe enn
+-0.9661418	zwe la
+-0.9661418	zwe laglwar
+-0.4259687	zwe sante
+
+\3-grams:
+-0.2552725	<s> avoy enn
+-0.1760913	sante confians </s>
+-0.1760913	direksyon curepipe </s>
+-0.1760913	letan curepipe </s>
+-0.07918125	<s> dan ki
+-0.1760913	messaz davish </s>
+-0.07918125	avoy enn messaz
+-0.1760913	messaz girish </s>
+-0.50515	<s> ki direksyon
+-0.50515	<s> ki letan
+-0.50515	<s> ki restoran
+-0.07918125	dan ki direksyon
+-0.3424227	<s> kouma letan
+-0.3424227	<s> kouma trafik
+-0.1760913	sante laglwar </s>
+-0.2552725	enn messaz </s>
+-0.1760913	direksyon moka </s>
+-0.1760913	letan moka </s>
+-0.1760913	messaz nabeel </s>
+-0.1760913	messaz paul </s>
+-0.1760913	direksyon portlouis </s>
+-0.1760913	letan portlouis </s>
+-0.1760913	direksyon reduit </s>
+-0.1760913	letan reduit </s>
+-0.07918125	ki restoran ena
+-0.1760913	direksyon rosehill </s>
+-0.1760913	letan rosehill </s>
+-0.1760913	enn sante </s>
+-0.07918125	kouma trafik ete
+
+\end\
